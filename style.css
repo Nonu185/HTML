@@ -1,0 +1,43 @@
+.class{
+    background-color: whitesmoke;
+    color: black;
+}
+body{
+    background-image: url(1716636552265.jpg);
+    background-repeat: repeat;
+    background-position: 10px;
+    background-attachment: fixed;
+}
+*{
+    text-align: center;
+}
+p{
+    font-weight: 900;
+}
+#div1{
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    margin: 10px;
+    background-color: gray;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+#div2{
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(133, 27, 27);
+    border: 1px solid black;
+    border-radius: 50%;
+}
+#div3{
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    margin: 8px;
+    background-color: rgb(5, 83, 177);
+    border: 1px solid black;
+    border-radius: 50%;
+}

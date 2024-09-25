@@ -1,0 +1,13 @@
+
+
+*{
+    text-align: center;
+}
+p{
+    font-weight: 900;
+}
+body{
+    background-image: url(1716636552265.jpg);
+    background-position: 10px;
+    background-attachment: fixed;
+}
